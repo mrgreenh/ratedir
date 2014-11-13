@@ -6,4 +6,6 @@
 - if you want, you can then type 'ratedir 1' to organize all lower-rated files in folders, but at least you will have saved some space deleting those .cr2
 - of course you can do this selecting any rating, '3' was an example
 
+You need to have the exiftool utility installed. http://www.sno.phy.queensu.ca/~phil/exiftool/
+
 I use it with a Canon EOS 600D, it works for this particular configuration.
