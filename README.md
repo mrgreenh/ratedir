@@ -1,4 +1,4 @@
-- Copy it in your /bin folder, call it 'ratedir'
+- Copy it in your /usr/local/bin folder, call it 'ratedir'
 - Navigate to a folder where you have either .jpg or .cr2 files or both
 - type 'ratedir 3': this will take all the files with EXIF 'Rating' >= 3 and split them in folders
 - it will place all unrated files in a 'discarded' folder and delete all discarded .cr2 files (I assume you have both a .jpg and a .cr2 pic for every shot)
